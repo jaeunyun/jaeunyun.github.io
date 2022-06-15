@@ -14,7 +14,7 @@ header:
       zh-TW   : *ZH_HANT
       zh-HK   : *ZH_HANT
       ko      : &KO       아카이브
-      ko-KR   : *KO
+      ko-KR   : &KO       아카이브
       fr      : &FR       Archives
       fr-BE   : *FR
       fr-CA   : *FR
@@ -40,7 +40,7 @@ header:
       zh-TW   : *ZH_HANT
       zh-HK   : *ZH_HANT
       ko      : &KO       소개
-      ko-KR   : *KO
+      ko-KR   : &KO       소개
       fr      : &FR       À propos
       fr-BE   : *FR
       fr-CA   : *FR
